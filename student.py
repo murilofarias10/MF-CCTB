@@ -6,3 +6,9 @@ class Student:
 
   def student_details(self):
     return "Student id is: %s and name is %s" % (self.student_id, self.name)
+  
+
+
+
+
+  

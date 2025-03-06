@@ -7,7 +7,6 @@ first_test_student = Student(123, "First Student")
 first_library = Library(111, "First Library")
 
 
-
 print(first_test_student)
 print(first_library)
 print(first_library.id, first_library.name)
