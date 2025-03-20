@@ -1,0 +1,4 @@
+Name Score1 Score2 Score3
+Alice 85 90 88
+Bob 78 82 80
+Charlie 92 95 89
