@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables – never commit secrets
+.env
+server/.env
+
+# Build output
+client/dist/
+client/build/
+
+# Data store – contains fetched posts, exclude from version control
+server/reddit_posts.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
